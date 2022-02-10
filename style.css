@@ -28,4 +28,6 @@ li {
     background-image: url(img.jpg);
     background-color: #eaeaea;
     background-size: cover;
+    border-radius: 100px;
+    
 }
