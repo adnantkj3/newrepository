@@ -26,4 +26,6 @@ li {
 
 .img {
     background-image: url(img.jpg);
+    background-color: #eaeaea;
+    background-size: cover;
 }
